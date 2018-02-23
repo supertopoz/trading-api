@@ -1,0 +1,72 @@
+{"data":{
+  "orderId": "001",
+  "companyName":"SuperTrader",
+  "customerAddress":"Steindamm 80",
+  "orderItem":"MacBook",
+  "price":1700,
+  "currency":"EUR"
+}
+}
+{"data":{
+  "orderId": "002",
+  "companyName":"Cheapskates",
+  "customerAddress":"Reeperbahn 153",
+  "orderItem":"MacBook",
+  "price":1700,
+  "currency":"EUR"
+}
+}
+{"data":{
+  "orderId": "003",
+  "companyName":"MegaCorp",
+  "customerAddress":"Steindamm 80",
+  "orderItem":" Book \\\"Guide to Hamburg\\\"",
+  "price":20,
+  "currency":"EUR"
+}
+}
+{"data":{
+  "orderId": "004",
+  "companyName":"SuperTrader",
+  "customerAddress":"Sternstrasse 125",
+  "orderItem":"Book \\\"Cooking 101\\\"",
+  "price":10,
+  "currency":"EUR"
+}
+}
+{"data":{
+  "orderId": "005",
+  "companyName":"SuperTrader",
+  "customerAddress":"Ottenser Hauptstrasse 24",
+  "orderItem":" Inline Skates",
+  "price":75,
+  "currency":"EUR"
+}
+}
+{"data":{
+  "orderId": "006",
+  "companyName":"MegaCorp",
+  "customerAddress":"Reeperbahn 153",
+  "orderItem":"Playstation 4",
+  "price":270,
+  "currency":"EUR"
+}
+}
+{"data":{
+  "orderId": "007",
+  "companyName":"Cheapskates",
+  "customerAddress":"Lagerstrasse 11",
+  "orderItem":"Flux compensator",
+  "price":2000,
+  "currency":"USD"
+}
+}
+{"data":{
+  "orderId": "008",
+  "companyName":"SuperTrader",
+  "customerAddress":"Reeperbahn 153",
+  "orderItem":"Inline Skates",
+  "price":75,
+  "currency":"EUR"
+}
+}
