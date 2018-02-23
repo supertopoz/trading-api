@@ -1,4 +1,4 @@
-# bg-fsd-v1
+# trading-api
 
 ## COMPANY ORDERS API
 
